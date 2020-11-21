@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+An extra limb means extra snacks
 
 ![saritocat](https://octodex.github.com/images/saritocat.png)
 {: .center}
