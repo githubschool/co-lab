@@ -1,20 +1,7 @@
-# GitHub for Developers
+# GitHub Best Practices
 
 - Class Date: Nov 21, 2020
 - Facilitator: @rwnfoo
-
-## Talk to Us!!
-
-If you have a question, or need assistance during class, **please create an issue and mention @rwnfoo**.
-
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
-
-## Scripts for Adding Files
-
-- **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
-- **PowerShell:** `for ($d=1; $d -le 6; $d++) { Out-File file$d.md; git add file$d.md; git commit -m "adding file$d.md"; }`
 
 ## Class Resources
 
